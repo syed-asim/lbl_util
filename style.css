@@ -1,0 +1,10 @@
+.controls {
+  display: inline-block;
+}
+
+canvas,.upper-canvas  {
+  border: none !important;
+  border: 0px solid rgb(204, 204, 204);
+  padding: 0 !important;
+  margin: 0 !important;
+}
